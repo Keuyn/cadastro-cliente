@@ -1,0 +1,11 @@
+!#bin/bash
+echo -e "\033[4;36m estou configurando \033[4m"
+sleep 3
+chmod +x s
+chmod +x start.x
+chmod +x start.x.c
+chmod +x cfg/cad.x
+chmod +x cfg/cad.x.c
+chmod +x cfg/cr.x
+chmod +x cfg/cr.x.c
+echo -e "\033[4;32m prontinho 😊 \033[4m"
